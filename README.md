@@ -1,5 +1,5 @@
 # Height-prediction-using-Linear-Regression
-Overview
+#Overview
 This project involves building a simple linear regression model to predict a person's height based on their weight. The model uses historical data on weight and height to learn the relationship between these two variables and make predictions for new data.
 
 Table of Contents
